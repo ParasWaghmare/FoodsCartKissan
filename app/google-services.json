@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "307733746294",
+    "firebase_url": "https://foodscartkissan.firebaseio.com",
+    "project_id": "foodscartkissan",
+    "storage_bucket": "foodscartkissan.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:307733746294:android:5c2df60f8c137daa",
+        "android_client_info": {
+          "package_name": "com.example.paras.foodscartkissan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "307733746294-mrid4l149ne72ukpqglc2dvl90jk43vm.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "307733746294-nnpvv1klm20l7hhjmo73grhb5jvtk9hj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.paras.foodscartkissan",
+            "certificate_hash": "497818437cb68e2c352479772448c8933f8b9458"
+          }
+        },
+        {
+          "client_id": "307733746294-qp1a0pm09uiba721pro1op85u3pn78a3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgQU2x65JGa81kFCOy1BcXS2KjntS5C-E"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "307733746294-mrid4l149ne72ukpqglc2dvl90jk43vm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

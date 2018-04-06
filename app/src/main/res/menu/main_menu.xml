@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/action_add"
+        android:icon="@mipmap/ic_add_black_24dp"
+        android:title="Add To Sell"
+        app:showAsAction="always"/>
+
+    <item
+        android:title="profile"
+        android:id="@+id/profile_setting"
+        android:icon="@drawable/account"
+        app:showAsAction="never"/>
+    <item
+        android:title="crops info"
+        android:id="@+id/crop_setting"
+        app:showAsAction="never"/>
+
+    <item
+        android:title="weather info"
+        android:id="@+id/wheather_setting"
+        app:showAsAction="never"
+            />
+
+    <item
+        android:title="assistant"
+        android:id="@+id/about_setting"
+        app:showAsAction="never"
+        />
+
+    ...
+    <item
+        android:id="@+id/main_logout"
+        android:title="logout"
+        app:showAsAction="never"/>
+</menu>
